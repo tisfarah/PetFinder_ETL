@@ -1,0 +1,371 @@
+id,name,dog_status,is_spayed,is_house_trained,is_declawed,has_special_needs,shots_current,address,country,state,City,gender,age,primary breed,secondary breed,Rank_x,Total Score,Pet Budget Rank,Pet Health and Wellness Rank,Outdoor Pet Friendliness Rank,Rank_y
+44730107.0,Jasper,adoptable,False,False,,False,False,14269 Road 28,US,CA,Madera,Male,Young,Retriever,Mixed Breed,,,,,,
+44730088.0,Lilly,adoptable,False,False,,False,False,1412  1st NE,US,GA,Moultrie,Female,Baby,Retriever,Mixed Breed,,,,,,
+44729168.0,Ruby,adoptable,True,False,,False,True,43 Ratley Rd,US,AL,Ashland,Female,Adult,Retriever,Mixed Breed,,,,,,
+44729635.0,Bella Blue,adoptable,True,False,,False,True,6003 Chapel Hill Road Ste. 133,US,NC,Raleigh,Female,Baby,Retriever,Mixed Breed,33.0,49.08,27.0,21.0,85.0,
+44729634.0,Jax Cole,adoptable,True,False,,False,True,6003 Chapel Hill Road Ste. 133,US,NC,Raleigh,Male,Baby,Retriever,Mixed Breed,33.0,49.08,27.0,21.0,85.0,
+44728412.0,Rusty,adoptable,False,False,,False,False,305 Airport Road,US,SC,Greenville,Male,Baby,Retriever,Mixed Breed,,,,,,
+44728413.0,Coco,adoptable,False,False,,False,False,305 Airport Road,US,SC,Greenville,Female,Baby,Retriever,Mixed Breed,,,,,,
+44728414.0,Diesel,adoptable,False,False,,False,False,305 Airport Road,US,SC,Greenville,Male,Baby,Retriever,Mixed Breed,,,,,,
+44728405.0,Leo,adoptable,False,False,,False,False,305 Airport Road,US,SC,Greenville,Male,Baby,Retriever,Mixed Breed,,,,,,
+44727096.0,41708650,adoptable,False,False,,False,False,328 Furman Hall Road,US,SC,Greenville,Female,Adult,Retriever,Mixed Breed,,,,,,
+44727098.0,41708934,adoptable,False,False,,False,False,328 Furman Hall Road,US,SC,Greenville,Female,Adult,Retriever,Mixed Breed,,,,,,
+44728329.0,Sunny,adoptable,True,False,,False,False,5399 Overpass Road,US,CA,Santa Barbara,Male,Adult,Retriever,Mixed Breed,,,,,,
+44728176.0,Diesel,adoptable,False,False,,False,False,150 Dexter Rd.,US,SC,Spartanburg,Male,Adult,Retriever,Mixed Breed,,,,,,
+44727325.0,Red,adoptable,False,False,,False,False,4140 Valley View Lane,US,TX,Irving,Male,Young,Retriever,Mixed Breed,58.0,45.76,45.0,37.0,93.0,
+44727323.0,Sunny,adoptable,True,False,,False,False,4140 Valley View Lane,US,TX,Irving,Female,Young,Retriever,Mixed Breed,58.0,45.76,45.0,37.0,93.0,
+44727230.0,Mary Ann,adoptable,True,False,,False,True,3355 Berkmar Dr.,US,VA,Charlottesville,Female,Baby,Retriever,Mixed Breed,,,,,,
+44727231.0,Alfalfa,adoptable,True,False,,False,True,3355 Berkmar Dr.,US,VA,Charlottesville,Male,Baby,Retriever,Mixed Breed,,,,,,
+44727232.0,Buckwheat,adoptable,True,False,,False,True,3355 Berkmar Dr.,US,VA,Charlottesville,Male,Baby,Retriever,Mixed Breed,,,,,,
+44726462.0,Bella,adoptable,True,False,,False,False,7 E. George Street,US,WA,Walla Walla,Female,Young,Retriever,Mixed Breed,,,,,,
+44725304.0,Jasper Jacob,adoptable,True,False,,False,True,3901 Martha Truman Road.,US,MO,Kansas City,Male,Adult,Retriever,Mixed Breed,37.0,48.38,22.0,51.0,55.0,
+44730299.0,Wiggles,adoptable,True,True,,False,True,1406 E 5th Street,US,IA,Tama,Female,Adult,Poodle,Yorkshire Terrier,,,,,,7.0
+44729062.0,Nugget,adoptable,False,False,,False,False,6725 Randolph Road,US,WA,Moses Lake,Male,Senior,Poodle,Yorkshire Terrier,,,,,,7.0
+44728800.0,Snickers,adopted,True,False,,False,True,,US,TX,Dallas,Male,Adult,Poodle,Yorkshire Terrier,72.0,43.97,84.0,40.0,47.0,7.0
+44728249.0,Freddie,adoptable,True,False,,False,True,,US,PA,Walnutport,Male,Adult,Poodle,Yorkshire Terrier,,,,,,7.0
+44728082.0,Puzzles,adoptable,True,False,,False,True,32 Shelter Circle,US,DE,Camden,Female,Adult,Poodle,Yorkshire Terrier,,,,,,7.0
+44728063.0,FINN,adoptable,True,False,,False,False,4000 N. Silverbell RD,US,AZ,Tucson,Male,Adult,Poodle,Yorkshire Terrier,23.0,50.78,42.0,23.0,42.0,7.0
+44727995.0,A978262,adoptable,True,False,,False,False,7115 De Castro Road,US,FL,Winter Haven,Male,Young,Poodle,Yorkshire Terrier,,,,,,7.0
+44727790.0,A529683,adoptable,False,False,,False,False,4710 State Hwy 151,US,TX,San Antonio,Female,Young,Poodle,Yorkshire Terrier,34.0,48.9,8.0,60.0,63.0,7.0
+44727836.0,SUNNY DAY,adoptable,False,False,,False,False,4710 State Hwy 151,US,TX,San Antonio,Male,Young,Poodle,Yorkshire Terrier,34.0,48.9,8.0,60.0,63.0,7.0
+44727497.0,UNKNOWN,adoptable,False,False,,False,False,11780 Arrow Route,US,CA,Rancho Cucamonga,Female,Baby,Poodle,Yorkshire Terrier,,,,,,7.0
+44727333.0,Morty,adoptable,True,False,,False,False,4140 Valley View Lane,US,TX,Irving,Male,Adult,Poodle,Yorkshire Terrier,58.0,45.76,45.0,37.0,93.0,7.0
+44727301.0,Dreamie,adoptable,False,False,,False,False,2156 Pillsbury Road,US,CA,Chico,Female,Young,Poodle,Yorkshire Terrier,,,,,,7.0
+44727279.0,Grover,adoptable,True,False,,False,False,14444 Okeechobee Blvd.,US,FL,Loxahatchee,Male,Adult,Poodle,Yorkshire Terrier,,,,,,7.0
+44726935.0,Chubb,adoptable,False,False,,False,False,111 W. Hunting Park Ave.,US,PA,Philadelphia,Male,Senior,Poodle,Yorkshire Terrier,80.0,43.08,88.0,61.0,33.0,7.0
+44726819.0,ELMO,adoptable,True,False,,False,False,10705 Fulton St,US,CO,Brighton,Male,Baby,Poodle,Yorkshire Terrier,,,,,,7.0
+44726210.0,CURLY,adoptable,True,False,,False,False,21417 Dunham Road,US,MI,Clinton Township,Male,Adult,Poodle,Yorkshire Terrier,,,,,,7.0
+44726195.0,JASMINE,adoptable,False,False,,False,True,7049 Baker Blvd,US,TX,Richland Hills,Female,Adult,Poodle,Yorkshire Terrier,,,,,,7.0
+44726196.0,JASPER,adoptable,False,False,,False,True,7049 Baker Blvd,US,TX,Richland Hills,Male,Adult,Poodle,Yorkshire Terrier,,,,,,7.0
+44726012.0,ARCHIE,adoptable,False,False,,False,False,3599 NW 79 Avenue Doral,US,FL,Miami,Male,Adult,Poodle,Yorkshire Terrier,29.0,49.79,15.0,35.0,64.0,7.0
+44726036.0,BELLE,adoptable,False,False,,False,False,3599 NW 79 Avenue Doral,US,FL,Miami,Female,Adult,Poodle,Yorkshire Terrier,29.0,49.79,15.0,35.0,64.0,7.0
+44730263.0,Carl,adoptable,True,False,,False,True,1700 Mardi Gras Blvd.,US,LA,New Orleans,Male,Baby,Dachshund,,65.0,44.49,72.0,43.0,53.0,12.0
+44730129.0,Snitch,adoptable,True,False,,False,True,1520 W. Mingus Ave.,US,AZ,Cottonwood,Male,Adult,Dachshund,,,,,,,12.0
+44730130.0,Bludger,adoptable,True,False,,False,True,1520 W. Mingus Ave.,US,AZ,Cottonwood,Male,Adult,Dachshund,,,,,,,12.0
+44730131.0,Mac,adoptable,True,False,,False,True,1520 W. Mingus Ave.,US,AZ,Cottonwood,Male,Adult,Dachshund,,,,,,,12.0
+44730132.0,Cheese,adoptable,True,False,,False,True,1520 W. Mingus Ave.,US,AZ,Cottonwood,Female,Adult,Dachshund,,,,,,,12.0
+44729298.0,A308632,adoptable,True,False,,False,False,2811 SE 29th Street,US,OK,Oklahoma City,Female,Young,Dachshund,,26.0,50.42,2.0,69.0,82.0,12.0
+44730018.0,REESE,adoptable,True,False,,False,False,1601 Eubanks Road,US,NC,Chapel Hill,Male,Young,Dachshund,,,,,,,12.0
+44729592.0,TOLEDO,adoptable,False,False,,False,False,610 Abbott Lane,US,CO,Colorado Springs,Male,Baby,Dachshund,,25.0,50.61,74.0,25.0,14.0,12.0
+44729593.0,TOMMY,adoptable,False,False,,False,False,610 Abbott Lane,US,CO,Colorado Springs,Male,Baby,Dachshund,,25.0,50.61,74.0,25.0,14.0,12.0
+44729484.0,Tulip,adoptable,True,False,,False,False,,US,CA,San Diego,Female,Young,Dachshund,,3.0,58.1,78.0,3.0,6.0,12.0
+44729485.0,Clover,adoptable,False,False,,True,False,,US,CA,San Diego,Female,Young,Dachshund,,3.0,58.1,78.0,3.0,6.0,12.0
+44729046.0,BUSTER,adoptable,False,False,,False,False,2032 Circle Rd,US,TX,Waco,Male,Young,Dachshund,,,,,,,12.0
+44728864.0,Rebeca,adoptable,False,False,,False,True,,US,GA,Alpharetta,Female,Baby,Dachshund,,,,,,,12.0
+44728845.0,PETER,adoptable,True,False,,False,False,11660 Administration Dr,US,MO,St. Louis,Male,Young,Dachshund,,20.0,50.91,32.0,33.0,41.0,12.0
+44728497.0,KIKI,adoptable,True,False,,False,False,1705 S. Hanley,US,MO,Saint Louis,Male,Young,Dachshund,,,,,,,12.0
+44728442.0,Zoe,adoptable,True,True,,False,True,4400 Audubon Lane,US,MS,Gautier,Female,Young,Dachshund,,,,,,,12.0
+44728328.0,Koda,adoptable,False,False,,False,False,2050 Spindletop Rd,US,TX,Beaumont,Male,Adult,Dachshund,,,,,,,12.0
+44728279.0,A517489,adoptable,False,False,,False,False,3647 Cornucopia Way,US,CA,Modesto,Male,Young,Dachshund,,,,,,,12.0
+44728035.0,BENTLY,adoptable,False,False,,False,False,2769 Conroy Road,US,FL,Orlando,Male,Adult,Dachshund,,2.0,58.35,14.0,4.0,46.0,12.0
+44728038.0,KIKO,adoptable,False,False,,False,False,2769 Conroy Road,US,FL,Orlando,Male,Young,Dachshund,,2.0,58.35,14.0,4.0,46.0,12.0
+44729771.0,JAKE,adoptable,True,False,,False,False,4750 West South Range Rd.,US,OH,Canfield,Male,Young,Rottweiler,Mixed Breed,,,,,,8.0
+44729434.0,STAR,adoptable,False,False,,False,False,612 Canino Rd,US,TX,Houston,Female,Adult,Rottweiler,Mixed Breed,61.0,45.46,46.0,45.0,71.0,8.0
+44729288.0,SOPHIA,adoptable,True,False,,False,False,2811 SE 29th Street,US,OK,Oklahoma City,Female,Adult,Rottweiler,Mixed Breed,26.0,50.42,2.0,69.0,82.0,8.0
+44729012.0,BOOBAH,adoptable,False,False,,False,False,3031 N Erie Ave,US,OK,Tulsa,Male,Young,Rottweiler,Mixed Breed,35.0,48.77,7.0,59.0,75.0,8.0
+44728902.0,A490681,adoptable,False,False,,False,False,3750 Brown Station Rd,US,MD,Upper Marlboro,Male,Adult,Rottweiler,Mixed Breed,,,,,,8.0
+44728896.0,BRUTUS,adoptable,True,False,,False,False,3750 Brown Station Rd,US,MD,Upper Marlboro,Male,Adult,Rottweiler,Mixed Breed,,,,,,8.0
+44727553.0,BEAR,adoptable,True,False,,False,False,1241 W. Bayaud Avenue,US,CO,Denver,Male,Adult,Rottweiler,Mixed Breed,22.0,50.79,81.0,7.0,50.0,8.0
+44728816.0,BUTTERBEAN,adoptable,True,False,,False,False,3501 E 71st St,US,CO,Loveland,Male,Adult,Rottweiler,Mixed Breed,,,,,,8.0
+44727814.0,A529756,adoptable,False,False,,False,False,4710 State Hwy 151,US,TX,San Antonio,Male,Adult,Rottweiler,Mixed Breed,34.0,48.9,8.0,60.0,63.0,8.0
+44728457.0,SPYRO,adoptable,False,False,,False,False,11800 Sunset Gardens SW,US,NM,Albuquerque,Male,Young,Rottweiler,Mixed Breed,13.0,52.85,6.0,79.0,20.0,8.0
+44728239.0,CAPONE,adoptable,True,False,,False,False,2070 Griffin Road,US,FL,Fort Lauderdale,Male,Young,Rottweiler,Mixed Breed,,,,,,8.0
+44728228.0,Stewart Little!,adoptable,True,False,,False,True,,US,WI,Genoa City,Male,Baby,Rottweiler,Mixed Breed,,,,,,8.0
+44727697.0,A179044,adoptable,False,False,,False,False,5245 Feather River Blvd.,US,CA,Olivehurst,Male,Young,Rottweiler,Mixed Breed,,,,,,8.0
+44727278.0,Joe,adoptable,True,False,,False,False,14444 Okeechobee Blvd.,US,FL,Loxahatchee,Male,Young,Rottweiler,Mixed Breed,,,,,,8.0
+44727284.0,Rocco,adoptable,False,False,,False,False,128 Brainerd Lane,US,PA,Stroudsburg,Male,Young,Rottweiler,Mixed Breed,,,,,,8.0
+44726139.0,Theia,adoptable,True,False,,True,False,616 N. Spring St.,US,TN,Clarksville,Female,Young,Rottweiler,Mixed Breed,,,,,,8.0
+44725902.0,Arya,adoptable,True,False,,False,False,,US,CA,Rancho Santa Margarita,Female,Baby,Rottweiler,Mixed Breed,,,,,,8.0
+44725885.0,Viktorbear,adoptable,True,True,,False,True,1250 North River Drive,US,MN,Mankato,Male,Adult,Rottweiler,Mixed Breed,,,,,,8.0
+44724866.0,SIMONE,adoptable,True,False,,False,False,305 - 25th Street West,US,FL,Palmetto,Female,Adult,Rottweiler,Mixed Breed,,,,,,8.0
+44723912.0,Lily the Mini Rotty!,adoptable,True,False,,False,True,,US,PA,Media,Female,Young,Rottweiler,Mixed Breed,,,,,,8.0
+44730412.0,Aurora,adoptable,True,False,,False,True,8303 Murray Ridge Road,US,OH,Elyria,Female,Young,Boxer,,,,,,,11.0
+44729361.0,BRUCE,adoptable,True,False,,False,False,612 Canino Rd,US,TX,Houston,Male,Baby,Boxer,,61.0,45.46,46.0,45.0,71.0,11.0
+44729362.0,BLACKIE,adoptable,True,False,,False,False,612 Canino Rd,US,TX,Houston,Male,Baby,Boxer,,61.0,45.46,46.0,45.0,71.0,11.0
+44730317.0,MIA,adoptable,True,False,,False,True,800 Community Circle,US,TX,Schertz,Female,Adult,Boxer,,,,,,,11.0
+44730260.0,puppies,adoptable,False,False,,False,True,32423 Calle Perfecto,US,CA,San Juan Capistrano,Female,Baby,Boxer,,,,,,,11.0
+44729636.0,Powder,adoptable,True,True,,False,True,6003 Chapel Hill Road Ste. 133,US,NC,Raleigh,Female,Young,Boxer,,33.0,49.08,27.0,21.0,85.0,11.0
+44729980.0,CONCHO,adoptable,False,False,,False,False,7610 Davis Blvd,US,FL,Naples,Male,Adult,Boxer,,,,,,,11.0
+44729888.0,Dallas,adoptable,True,False,,False,True,3410 S. Walnut Street,US,IN,Bloomington,Male,Young,Boxer,,,,,,,11.0
+44729837.0,COMANCHI,adoptable,True,False,,False,False,2080 S. Quebec St.,US,CO,Denver,Male,Adult,Boxer,,22.0,50.79,81.0,7.0,50.0,11.0
+44729838.0,SPIRIT,adoptable,True,False,,False,False,2080 S. Quebec St.,US,CO,Denver,Female,Young,Boxer,,22.0,50.79,81.0,7.0,50.0,11.0
+44729839.0,LUKE,adoptable,True,False,,False,False,2080 S. Quebec St.,US,CO,Denver,Male,Baby,Boxer,,22.0,50.79,81.0,7.0,50.0,11.0
+44729840.0,LARRY,adoptable,True,False,,False,False,2080 S. Quebec St.,US,CO,Denver,Male,Baby,Boxer,,22.0,50.79,81.0,7.0,50.0,11.0
+44729813.0,MIA,adoptable,True,False,,False,False,2080 S. Quebec St.,US,CO,Denver,Female,Adult,Boxer,,22.0,50.79,81.0,7.0,50.0,11.0
+44729045.0,BENTO,adoptable,False,False,,False,False,2032 Circle Rd,US,TX,Waco,Male,Young,Boxer,,,,,,,11.0
+44729208.0,Molly,adoptable,True,False,,False,False,5970 Green Road,US,OH,Ashtabula,Female,Adult,Boxer,,,,,,,11.0
+44729094.0,Boss,adoptable,True,False,,False,True,,US,AL,Vinemont,Male,Adult,Boxer,,,,,,,11.0
+44728945.0,McCartney,adoptable,True,False,,False,True,,US,CO,Littleton,Male,Baby,Boxer,,,,,,,11.0
+44728950.0,Starkey,adoptable,True,False,,False,True,,US,CO,Littleton,Male,Baby,Boxer,,,,,,,11.0
+44728951.0,Sutcliffe,adoptable,True,False,,False,True,,US,CO,Littleton,Male,Baby,Boxer,,,,,,,11.0
+44728940.0,Harrison,adoptable,True,False,,False,True,,US,CO,Littleton,Male,Baby,Boxer,,,,,,,11.0
+,,,,,,,,,,,Scottsdale,,,,,1.0,60.48,80.0,1.0,4.0,
+,,,,,,,,,,,Austin,,,,,4.0,56.2,33.0,2.0,58.0,
+,,,,,,,,,,,Phoenix,,,,,5.0,56.0,49.0,13.0,16.0,
+,,,,,,,,,,,Tampa,,,,,6.0,55.41,30.0,20.0,19.0,
+,,,,,,,,,,,Cincinnati,,,,,7.0,55.31,4.0,32.0,29.0,
+,,,,,,,,,,,Seattle,,,,,8.0,54.49,86.0,6.0,11.0,
+,,,,,,,,,,,Las Vegas,,,,,9.0,54.44,63.0,16.0,10.0,
+,,,,,,,,,,,Irvine,,,,,10.0,54.34,96.0,5.0,5.0,
+,,,,,,,,,,,Portland,,,,,11.0,54.29,83.0,11.0,7.0,
+,,,,,,,,,,,Atlanta,,,,,12.0,53.13,21.0,10.0,80.0,
+,,,,,,,,,,,Sacramento,,,,,14.0,52.58,48.0,26.0,21.0,
+,,,,,,,,,,,Plano,,,,,15.0,52.28,70.0,9.0,35.0,
+,,,,,,,,,,,Columbus,,,,,16.0,52.05,1.0,63.0,56.0,
+,,,,,,,,,,,Los Angeles,,,,,17.0,51.77,97.0,12.0,3.0,
+,,,,,,,,,,,Oakland,,,,,18.0,51.55,85.0,18.0,9.0,
+,,,,,,,,,,,Long Beach,,,,,19.0,50.98,77.0,24.0,12.0,
+,,,,,,,,,,,Fremont,,,,,21.0,50.79,94.0,19.0,2.0,
+,,,,,,,,,,,Fort Worth,,,,,24.0,50.68,11.0,30.0,73.0,
+,,,,,,,,,,,Stockton,,,,,27.0,49.95,12.0,89.0,39.0,
+,,,,,,,,,,,Henderson,,,,,28.0,49.86,51.0,67.0,8.0,
+,,,,,,,,,,,Arlington,,,,,30.0,49.4,20.0,46.0,59.0,
+,,,,,,,,,,,Birmingham,,,,,31.0,49.27,44.0,34.0,52.0,
+,,,,,,,,,,,Madison,,,,,32.0,49.23,43.0,48.0,30.0,
+,,,,,,,,,,,Boise,,,,,36.0,48.66,50.0,47.0,37.0,
+,,,,,,,,,,,Anaheim,,,,,38.0,48.3,90.0,8.0,40.0,
+,,,,,,,,,,,Glendale,,,,,39.0,48.21,31.0,42.0,60.0,
+,,,,,,,,,,,Omaha,,,,,40.0,48.15,3.0,77.0,68.0,
+,,,,,,,,,,,St. Petersburg,,,,,41.0,48.05,40.0,73.0,24.0,
+,,,,,,,,,,,San Francisco,,,,,42.0,47.98,100.0,14.0,1.0,
+,,,,,,,,,,,North Las Vegas,,,,,43.0,47.46,51.0,81.0,22.0,
+,,,,,,,,,,,Pittsburgh,,,,,44.0,47.18,60.0,55.0,27.0,
+,,,,,,,,,,,Riverside,,,,,45.0,47.07,82.0,36.0,28.0,
+,,,,,,,,,,,Hialeah,,,,,46.0,47.03,24.0,75.0,61.0,
+,,,,,,,,,,,Lexington-Fayette,,,,,47.0,46.93,35.0,41.0,83.0,
+,,,,,,,,,,,Chula Vista,,,,,48.0,46.76,53.0,70.0,32.0,
+,,,,,,,,,,,Minneapolis,,,,,49.0,46.72,66.0,44.0,36.0,
+,,,,,,,,,,,Chicago,,,,,50.0,46.45,89.0,15.0,49.0,
+,,,,,,,,,,,Jersey City,,,,,51.0,46.38,92.0,31.0,18.0,
+,,,,,,,,,,,Reno,,,,,52.0,46.09,54.0,28.0,76.0,
+,,,,,,,,,,,Gilbert,,,,,53.0,46.03,75.0,22.0,69.0,
+,,,,,,,,,,,Garland,,,,,54.0,45.93,56.0,38.0,66.0,
+,,,,,,,,,,,Corpus Christi,,,,,55.0,45.87,5.0,91.0,86.0,
+,,,,,,,,,,,Louisville,,,,,56.0,45.84,16.0,53.0,94.0,
+,,,,,,,,,,,San Jose,,,,,57.0,45.81,39.0,84.0,25.0,
+,,,,,,,,,,,Toledo,,,,,59.0,45.74,9.0,76.0,57.0,
+,,,,,,,,,,,St. Paul,,,,,60.0,45.48,58.0,66.0,38.0,
+,,,,,,,,,,,Wichita,,,,,62.0,44.72,18.0,58.0,98.0,
+,,,,,,,,,,,Nashville,,,,,63.0,44.56,37.0,62.0,78.0,
+,,,,,,,,,,,San Bernardino,,,,,64.0,44.5,67.0,85.0,15.0,
+,,,,,,,,,,,Aurora,,,,,66.0,44.44,65.0,29.0,77.0,
+,,,,,,,,,,,Chesapeake,,,,,67.0,44.32,61.0,86.0,26.0,
+,,,,,,,,,,,Bakersfield,,,,,68.0,44.07,79.0,68.0,34.0,
+,,,,,,,,,,,Winston-Salem,,,,,69.0,44.06,25.0,80.0,89.0,
+,,,,,,,,,,,Greensboro,,,,,70.0,44.05,19.0,74.0,62.0,
+,,,,,,,,,,,Durham,,,,,71.0,44.03,26.0,65.0,90.0,
+,,,,,,,,,,,Chandler,,,,,73.0,43.75,59.0,49.0,67.0,
+,,,,,,,,,,,Indianapolis,,,,,74.0,43.6,23.0,56.0,97.0,
+,,,,,,,,,,,Washington,,,,,75.0,43.39,98.0,50.0,17.0,
+,,,,,,,,,,,Santa Ana,,,,,76.0,43.37,95.0,17.0,54.0,
+,,,,,,,,,,,Lubbock,,,,,77.0,43.16,29.0,87.0,91.0,
+,,,,,,,,,,,Boston,,,,,78.0,43.16,69.0,72.0,44.0,
+,,,,,,,,,,,Memphis,,,,,79.0,43.14,17.0,78.0,99.0,
+,,,,,,,,,,,Lincoln,,,,,81.0,43.03,38.0,90.0,65.0,
+,,,,,,,,,,,Jacksonville,,,,,82.0,42.95,41.0,71.0,84.0,
+,,,,,,,,,,,Baton Rouge,,,,,83.0,42.82,36.0,54.0,95.0,
+,,,,,,,,,,,El Paso,,,,,84.0,42.77,28.0,98.0,45.0,
+,,,,,,,,,,,Anchorage,,,,,85.0,42.48,71.0,95.0,23.0,
+,,,,,,,,,,,Milwaukee,,,,,86.0,42.04,13.0,96.0,81.0,
+,,,,,,,,,,,Detroit,,,,,87.0,41.92,34.0,93.0,70.0,
+,,,,,,,,,,,Virginia Beach,,,,,88.0,41.3,47.0,82.0,87.0,
+,,,,,,,,,,,Cleveland,,,,,89.0,41.14,55.0,83.0,79.0,
+,,,,,,,,,,,New York,,,,,90.0,41.05,99.0,39.0,13.0,
+,,,,,,,,,,,Fresno,,,,,91.0,40.94,76.0,88.0,43.0,
+,,,,,,,,,,,Charlotte,,,,,92.0,40.34,57.0,52.0,96.0,
+,,,,,,,,,,,Newark,,,,,93.0,40.28,93.0,27.0,92.0,
+,,,,,,,,,,,Norfolk,,,,,94.0,40.11,61.0,94.0,48.0,
+,,,,,,,,,,,Mesa,,,,,95.0,39.35,87.0,64.0,74.0,
+,,,,,,,,,,,Baltimore,,,,,96.0,37.97,64.0,97.0,51.0,
+,,,,,,,,,,,Laredo,,,,,97.0,37.26,9.0,99.0,72.0,
+,,,,,,,,,,,Fort Wayne,,,,,98.0,37.06,68.0,57.0,100.0,
+,,,,,,,,,,,Buffalo,,,,,99.0,36.92,73.0,92.0,88.0,
+,,,,,,,,,,,Honolulu,,,,,100.0,32.95,91.0,100.0,31.0,
+,,,,,,,,,,,,,,Retrievers (Labrador,,,,,,,1.0
+,,,,,,,,,,,,,,German Shepherd Dog,,,,,,,2.0
+,,,,,,,,,,,,,,Retrievers (Golden,,,,,,,3.0
+,,,,,,,,,,,,,,French Bulldog,,,,,,,4.0
+,,,,,,,,,,,,,,Bulldog,,,,,,,5.0
+,,,,,,,,,,,,,,Beagle,,,,,,,6.0
+,,,,,,,,,,,,,,Pointers (German Shorthaired,,,,,,,9.0
+,,,,,,,,,,,,,,Yorkshire Terrier,,,,,,,10.0
+,,,,,,,,,,,,,,Pembroke Welsh Corgi,,,,,,,13.0
+,,,,,,,,,,,,,,Siberian Huskie,,,,,,,14.0
+,,,,,,,,,,,,,,Australian Shepherd,,,,,,,15.0
+,,,,,,,,,,,,,,Great Dane,,,,,,,16.0
+,,,,,,,,,,,,,,Doberman Pinscher,,,,,,,17.0
+,,,,,,,,,,,,,,Cavalier King Charles Spaniel,,,,,,,18.0
+,,,,,,,,,,,,,,Miniature Schnauzer,,,,,,,19.0
+,,,,,,,,,,,,,,Shih Tz,,,,,,,20.0
+,,,,,,,,,,,,,,Boston Terrier,,,,,,,21.0
+,,,,,,,,,,,,,,Bernese Mountain Dog,,,,,,,22.0
+,,,,,,,,,,,,,,Pomeranian,,,,,,,23.0
+,,,,,,,,,,,,,,Havanes,,,,,,,24.0
+,,,,,,,,,,,,,,Shetland Sheepdog,,,,,,,25.0
+,,,,,,,,,,,,,,Brittany,,,,,,,26.0
+,,,,,,,,,,,,,,Spaniels (English Springer,,,,,,,27.0
+,,,,,,,,,,,,,,Pug,,,,,,,28.0
+,,,,,,,,,,,,,,Mastiff,,,,,,,29.0
+,,,,,,,,,,,,,,Spaniels (Cocker,,,,,,,30.0
+,,,,,,,,,,,,,,Vizsla,,,,,,,31.0
+,,,,,,,,,,,,,,Cane Cors,,,,,,,32.0
+,,,,,,,,,,,,,,Chihuahua,,,,,,,33.0
+,,,,,,,,,,,,,,Miniature American Shepherd,,,,,,,34.0
+,,,,,,,,,,,,,,Border Collie,,,,,,,35.0
+,,,,,,,,,,,,,,Weimaraner,,,,,,,36.0
+,,,,,,,,,,,,,,Maltes,,,,,,,37.0
+,,,,,,,,,,,,,,Collie,,,,,,,38.0
+,,,,,,,,,,,,,,Basset Hound,,,,,,,39.0
+,,,,,,,,,,,,,,Newfoundland,,,,,,,40.0
+,,,,,,,,,,,,,,Rhodesian Ridgeback,,,,,,,41.0
+,,,,,,,,,,,,,,West Highland White Terrier,,,,,,,42.0
+,,,,,,,,,,,,,,Belgian Malinoi,,,,,,,43.0
+,,,,,,,,,,,,,,Shiba In,,,,,,,44.0
+,,,,,,,,,,,,,,Retrievers (Chesapeake Bay,,,,,,,45.0
+,,,,,,,,,,,,,,Bichons Frise,,,,,,,46.0
+,,,,,,,,,,,,,,Akita,,,,,,,47.0
+,,,,,,,,,,,,,,St. Bernard,,,,,,,48.0
+,,,,,,,,,,,,,,Bloodhound,,,,,,,49.0
+,,,,,,,,,,,,,,Portuguese Water Dog,,,,,,,50.0
+,,,,,,,,,,,,,,Bullmastiff,,,,,,,51.0
+,,,,,,,,,,,,,,Spaniels (English Cocker,,,,,,,52.0
+,,,,,,,,,,,,,,Soft Coated Wheaten Terrier,,,,,,,53.0
+,,,,,,,,,,,,,,Papillon,,,,,,,54.0
+,,,,,,,,,,,,,,Australian Cattle Dog,,,,,,,55.0
+,,,,,,,,,,,,,,Dalmatian,,,,,,,56.0
+,,,,,,,,,,,,,,Scottish Terrier,,,,,,,57.0
+,,,,,,,,,,,,,,Alaskan Malamute,,,,,,,58.0
+,,,,,,,,,,,,,,Samoyed,,,,,,,59.0
+,,,,,,,,,,,,,,Airedale Terrier,,,,,,,60.0
+,,,,,,,,,,,,,,Whippet,,,,,,,61.0
+,,,,,,,,,,,,,,Bull Terrier,,,,,,,62.0
+,,,,,,,,,,,,,,Pointers (German Wirehaired,,,,,,,63.0
+,,,,,,,,,,,,,,Chinese Shar-Pe,,,,,,,64.0
+,,,,,,,,,,,,,,Wirehaired Pointing Griffon,,,,,,,65.0
+,,,,,,,,,,,,,,Great Pyrenee,,,,,,,66.0
+,,,,,,,,,,,,,,Dogues de Bordeau,,,,,,,67.0
+,,,,,,,,,,,,,,Cardigan Welsh Corgi,,,,,,,68.0
+,,,,,,,,,,,,,,Cairn Terrier,,,,,,,69.0
+,,,,,,,,,,,,,,Miniature Pinscher,,,,,,,70.0
+,,,,,,,,,,,,,,Lhasa Apso,,,,,,,71.0
+,,,,,,,,,,,,,,Old English Sheepdog,,,,,,,72.0
+,,,,,,,,,,,,,,Italian Greyhound,,,,,,,73.0
+,,,,,,,,,,,,,,Greater Swiss Mountain Dog,,,,,,,74.0
+,,,,,,,,,,,,,,Chow Chow,,,,,,,75.0
+,,,,,,,,,,,,,,Irish Wolfhound,,,,,,,76.0
+,,,,,,,,,,,,,,Setters (Irish,,,,,,,77.0
+,,,,,,,,,,,,,,Giant Schnauzer,,,,,,,78.0
+,,,,,,,,,,,,,,Chinese Creste,,,,,,,79.0
+,,,,,,,,,,,,,,Staffordshire Bull Terrier,,,,,,,80.0
+,,,,,,,,,,,,,,Coton de Tulea,,,,,,,81.0
+,,,,,,,,,,,,,,Russell Terrier,,,,,,,82.0
+,,,,,,,,,,,,,,Retrievers (Nova Scotia Duck Tolling,,,,,,,83.0
+,,,,,,,,,,,,,,Bouviers des Flandre,,,,,,,84.0
+,,,,,,,,,,,,,,American Staffordshire Terrier,,,,,,,85.0
+,,,,,,,,,,,,,,Rat Terrier,,,,,,,86.0
+,,,,,,,,,,,,,,Basenji,,,,,,,87.0
+,,,,,,,,,,,,,,Border Terrier,,,,,,,88.0
+,,,,,,,,,,,,,,Standard Schnauzer,,,,,,,89.0
+,,,,,,,,,,,,,,Anatolian Shepherd Dog,,,,,,,90.0
+,,,,,,,,,,,,,,Retrievers (Flat-Coated,,,,,,,91.0
+,,,,,,,,,,,,,,Pekinges,,,,,,,92.0
+,,,,,,,,,,,,,,Leonberger,,,,,,,93.0
+,,,,,,,,,,,,,,Setters (English,,,,,,,94.0
+,,,,,,,,,,,,,,Keeshonde,,,,,,,95.0
+,,,,,,,,,,,,,,Tibetan Terrier,,,,,,,96.0
+,,,,,,,,,,,,,,Norwegian Elkhound,,,,,,,97.0
+,,,,,,,,,,,,,,Brussels Griffon,,,,,,,98.0
+,,,,,,,,,,,,,,Lagotti Romagnol,,,,,,,99.0
+,,,,,,,,,,,,,,Spaniels (Boykin,,,,,,,100.0
+,,,,,,,,,,,,,,Fox Terriers (Wire,,,,,,,101.0
+,,,,,,,,,,,,,,Neapolitan Mastiff,,,,,,,102.0
+,,,,,,,,,,,,,,Borzoi,,,,,,,103.0
+,,,,,,,,,,,,,,Japanese Chi,,,,,,,104.0
+,,,,,,,,,,,,,,Schipperke,,,,,,,105.0
+,,,,,,,,,,,,,,Belgian Tervure,,,,,,,106.0
+,,,,,,,,,,,,,,Welsh Terrier,,,,,,,107.0
+,,,,,,,,,,,,,,Norwich Terrier,,,,,,,108.0
+,,,,,,,,,,,,,,Spinoni Italian,,,,,,,109.0
+,,,,,,,,,,,,,,Miniature Bull Terrier,,,,,,,110.0
+,,,,,,,,,,,,,,Toy Fox Terrier,,,,,,,111.0
+,,,,,,,,,,,,,,Silky Terrier,,,,,,,112.0
+,,,,,,,,,,,,,,Afghan Hound,,,,,,,113.0
+,,,,,,,,,,,,,,Pointer,,,,,,,114.0
+,,,,,,,,,,,,,,Setters (Gordon,,,,,,,115.0
+,,,,,,,,,,,,,,Irish Terrier,,,,,,,116.0
+,,,,,,,,,,,,,,Parson Russell Terrier,,,,,,,117.0
+,,,,,,,,,,,,,,Black Russian Terrier,,,,,,,118.0
+,,,,,,,,,,,,,,Tibetan Spaniel,,,,,,,119.0
+,,,,,,,,,,,,,,Saluki,,,,,,,120.0
+,,,,,,,,,,,,,,Boerboel,,,,,,,121.0
+,,,,,,,,,,,,,,American Eskimo Dog,,,,,,,122.0
+,,,,,,,,,,,,,,Fox Terriers (Smooth,,,,,,,123.0
+,,,,,,,,,,,,,,Beauceron,,,,,,,124.0
+,,,,,,,,,,,,,,Belgian Sheepdog,,,,,,,125.0
+,,,,,,,,,,,,,,Norfolk Terrier,,,,,,,126.0
+,,,,,,,,,,,,,,Bearded Collie,,,,,,,127.0
+,,,,,,,,,,,,,,Spaniels (Welsh Springer,,,,,,,128.0
+,,,,,,,,,,,,,,Kerry Blue Terrier,,,,,,,129.0
+,,,,,,,,,,,,,,Bluetick Coonhound,,,,,,,130.0
+,,,,,,,,,,,,,,Tibetan Mastiff,,,,,,,131.0
+,,,,,,,,,,,,,,Briard,,,,,,,132.0
+,,,,,,,,,,,,,,Manchester Terrier,,,,,,,133.0
+,,,,,,,,,,,,,,German Pinscher,,,,,,,134.0
+,,,,,,,,,,,,,,English Toy Spaniel,,,,,,,135.0
+,,,,,,,,,,,,,,American Hairless Terrier,,,,,,,136.0
+,,,,,,,,,,,,,,Treeing Walker Coonhound,,,,,,,137.0
+,,,,,,,,,,,,,,Black and Tan Coonhound,,,,,,,138.0
+,,,,,,,,,,,,,,Australian Terrier,,,,,,,139.0
+,,,,,,,,,,,,,,Xoloitzcuintl,,,,,,,140.0
+,,,,,,,,,,,,,,Bedlington Terrier,,,,,,,141.0
+,,,,,,,,,,,,,,Redbone Coonhound,,,,,,,142.0
+,,,,,,,,,,,,,,Spaniels (Clumber,,,,,,,143.0
+,,,,,,,,,,,,,,Berger Picard,,,,,,,144.0
+,,,,,,,,,,,,,,Greyhound,,,,,,,145.0
+,,,,,,,,,,,,,,Setters (Irish Red and White,,,,,,,146.0
+,,,,,,,,,,,,,,Lakeland Terrier,,,,,,,147.0
+,,,,,,,,,,,,,,Affenpinscher,,,,,,,148.0
+,,,,,,,,,,,,,,Spaniels (Field,,,,,,,149.0
+,,,,,,,,,,,,,,Nederlandse Kooikerhondje,,,,,,,150.0
+,,,,,,,,,,,,,,Pumi,,,,,,,151.0
+,,,,,,,,,,,,,,Ibizan Hound,,,,,,,152.0
+,,,,,,,,,,,,,,Spanish Water Dog,,,,,,,153.0
+,,,,,,,,,,,,,,Portuguese Podengo Pequeno,,,,,,,154.0
+,,,,,,,,,,,,,,Icelandic Sheepdog,,,,,,,155.0
+,,,,,,,,,,,,,,Petits Bassets Griffons Vendeen,,,,,,,156.0
+,,,,,,,,,,,,,,Entlebucher Mountain Dog,,,,,,,157.0
+,,,,,,,,,,,,,,Scottish Deerhound,,,,,,,158.0
+,,,,,,,,,,,,,,Spaniels (Irish Water,,,,,,,159.0
+,,,,,,,,,,,,,,Puli,,,,,,,160.0
+,,,,,,,,,,,,,,Finnish Lapphund,,,,,,,161.0
+,,,,,,,,,,,,,,Retrievers (Curly-Coated,,,,,,,162.0
+,,,,,,,,,,,,,,Kuvaszo,,,,,,,163.0
+,,,,,,,,,,,,,,Sealyham Terrier,,,,,,,164.0
+,,,,,,,,,,,,,,Norwegian Buhund,,,,,,,165.0
+,,,,,,,,,,,,,,Spaniels (American Water,,,,,,,166.0
+,,,,,,,,,,,,,,Wirehaired Vizsla,,,,,,,167.0
+,,,,,,,,,,,,,,Lowche,,,,,,,168.0
+,,,,,,,,,,,,,,Swedish Vallhund,,,,,,,169.0
+,,,,,,,,,,,,,,Polish Lowland Sheepdog,,,,,,,170.0
+,,,,,,,,,,,,,,Plott,,,,,,,171.0
+,,,,,,,,,,,,,,Pharaoh Hound,,,,,,,172.0
+,,,,,,,,,,,,,,Komondoro,,,,,,,173.0
+,,,,,,,,,,,,,,Glen of Imaal Terrier,,,,,,,174.0
+,,,,,,,,,,,,,,American English Coonhound,,,,,,,175.0
+,,,,,,,,,,,,,,Dandie Dinmont Terrier,,,,,,,176.0
+,,,,,,,,,,,,,,Grand Basset Griffon Vendeen,,,,,,,177.0
+,,,,,,,,,,,,,,Skye Terrier,,,,,,,178.0
+,,,,,,,,,,,,,,Canaan Dog,,,,,,,179.0
+,,,,,,,,,,,,,,Spaniels (Sussex,,,,,,,180.0
+,,,,,,,,,,,,,,Pyrenean Shepherd,,,,,,,181.0
+,,,,,,,,,,,,,,Otterhound,,,,,,,182.0
+,,,,,,,,,,,,,,Cirnechi dell’Etn,,,,,,,183.0
+,,,,,,,,,,,,,,Finnish Spit,,,,,,,184.0
+,,,,,,,,,,,,,,Cesky Terrier,,,,,,,185.0
+,,,,,,,,,,,,,,American Foxhound,,,,,,,186.0
+,,,,,,,,,,,,,,Bergamasco Sheepdog,,,,,,,187.0
+,,,,,,,,,,,,,,English Foxhound,,,,,,,188.0
+,,,,,,,,,,,,,,Harrier,,,,,,,189.0
+,,,,,,,,,,,,,,Chinook,,,,,,,190.0
+,,,,,,,,,,,,,,Norwegian Lundehund,,,,,,,191.0
+,,,,,,,,,,,,,,Sloughi,,,,,,,192.0
